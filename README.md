@@ -6,7 +6,6 @@ A personal carbon footprint tracking app, created with JavaScript/React.
 * [Images](#images)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [How to play](#how-to-play)
 
 ## Brief
 You have been approached by a lifestyle consultancy company dealing with environmental sustainability. Your task is to build a personal CO<sub>2</sub> footprint checker app that calculates a user's CO<sub>2</sub> footprint based on their lifestyle.
